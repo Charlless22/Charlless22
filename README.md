@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Charles Delachapelle</h1>
 <h3 align="center">Devlopper</h3>
 
-- 🌱 I’m currently learning **C/py/js**
-
 - 📫 How to reach me **cdelachapelle4@gmail.com/charles.delachapelle@epitech.eu**
 
 <h3 align="left">Connect with me:</h3>
