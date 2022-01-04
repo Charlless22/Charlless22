@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Charles Delachapelle</h1>
-<h3 align="center">Devlopper</h3>
 
 - 📫 How to reach me **cdelachapelle4@gmail.com/charles.delachapelle@epitech.eu**
 
