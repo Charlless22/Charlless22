@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charles Delachapelle</h1>
-<h3 align="center">I'm a developer that has a passion for front end as a hobby, I also love to create little front end projects</h3>
+<h3 align="center">I'm a developer that has a passion for front end, I also love to create little front end projects</h3>
 
 - 🔭 I’m currently working on **MyKoKo**
 
