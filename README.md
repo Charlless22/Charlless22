@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MyKoKo**
 
-- 🌱 I’m currently learning **React Native - JS - Rust**
+- 🌱 I’m currently learning **React Native - JS - Creative Front End**
 
 - 📫 How to reach me **cdelachapelle4@gmail.com**
 
